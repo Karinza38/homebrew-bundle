@@ -1,4 +1,4 @@
-# Homebrew Bundle
+ # Homebrew Bundle
 
 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask, Mac App Store, Whalebrew and Visual Studio Code.
 
