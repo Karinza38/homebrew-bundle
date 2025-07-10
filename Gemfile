@@ -5,7 +5,7 @@ source "https://rubygems.org"
 ruby file: ".ruby-version"
 
 group :test do
-  gem "activesupport"
+  gem "activesupport", ">= 8.0.2"
   gem "rspec"
   gem "simplecov", require: false
   gem "simplecov-cobertura", require: false
