@@ -8,5 +8,5 @@ group :test do
   gem "activesupport"
   gem "rspec"
   gem "simplecov", require: false
-  gem "simplecov-cobertura", require: false
+  gem "simplecov-cobertura", ">= 3.0.0", require: false
 end
